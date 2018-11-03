@@ -1,0 +1,2 @@
+# mysite
+device detecting
